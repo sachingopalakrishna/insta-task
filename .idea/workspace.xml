@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1051695f-515e-4e1a-90f8-697354fea809" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/insta-task.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/instaTask/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/instaTask/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/instaTask/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/instaTask/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/serializers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instaTask/web_service/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaTask/instaTask/urls.py" afterPath="$PROJECT_DIR$/instaTask/instaTask/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/instaTask/instaTask/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
-              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
               </folding>
@@ -367,7 +348,7 @@
     <entry file="file://$PROJECT_DIR$/instaTask/instaTask/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
           </folding>

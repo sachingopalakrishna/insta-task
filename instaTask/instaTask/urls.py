@@ -21,5 +21,5 @@ from django.conf.urls import url
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^addUser/$', views.InstaUserAddList.as_view()),
+    url(r'^InstaUser/$', views.InstaUserAddList.as_view()),
 ]
